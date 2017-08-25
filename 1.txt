@@ -1,3 +1,4 @@
 pierwsza linijka	
 druga
-trzecia
+
+4
